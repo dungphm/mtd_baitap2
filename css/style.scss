@@ -169,7 +169,7 @@ input {
         display: flex;
         justify-content: center;
         align-items: center;
-        background-image: url(..assets/img/shapre-3.png);
+        background-image: url(../assets/img/shapre-3.png);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: bottom;
@@ -342,7 +342,7 @@ input {
     }
 
     .section2 {
-        background-image: url("assets/img/section-bg-4.png");
+        background-image: url(../assets/img/section-bg-4.png);
         position: relative;
         height: calc(70vh - 74px);
         padding-top: 120px;
@@ -382,7 +382,7 @@ input {
     }
 
     .section3 {
-        background-image: url("assets/img/section-bg-5.png");
+        background-image: url(../assets/img/section-bg-5.png);
         position: relative;
         height: calc(70vh - 74px);
         padding: 120px 0;
@@ -432,7 +432,7 @@ input {
     .section4 {
         padding-top: 120px;
         padding-bottom: 120px;
-        background-image: url("assets/img/section-bg-2.png");
+        background-image: url(../assets/img/section-bg-2.png);
         position: relative;
         height: calc(100vh - 74px);
         padding: 120px 0;
@@ -598,7 +598,7 @@ input {
                         text-align: center;
         
                         &:before {
-                            content: url(assets/img/quote-icon-3.png);
+                            content: url(../assets/img/quote-icon-3.png);
                             margin-bottom: 20px;
                             display: block;
                         }
@@ -938,7 +938,7 @@ input {
     .section9{
         padding-top: 120px;
         padding-bottom: 120px;
-        background: url(assets/img/welcome-4-Shape.png) no-repeat scroll center left 10px / 600px 100%;
+        background: url(../assets/img/welcome-4-Shape.png) no-repeat scroll center left 10px / 600px 100%;
 
         .section9__top {
             text-align: center;
@@ -1275,7 +1275,7 @@ input {
 }
 
 footer {
-    background-image: url(assets/img/footer-bg-3.png);
+    background-image: url(../assets/img/footer-bg-3.png);
     background-size: 100% 100%;
     padding-top: 100px;
     padding-bottom: 70px;
